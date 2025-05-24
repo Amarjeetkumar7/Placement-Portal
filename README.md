@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f79745f2-599a-4cdd-994e-f18bd12850e0)#  placement portal website
+##  placement portal website
 
 This is a full-stack Placement portal website built using the MERN stack (MongoDB, Express, React, Node.js). Users can browse differnt jobs, filter by city, name, and apply for job and register in different company.
 
