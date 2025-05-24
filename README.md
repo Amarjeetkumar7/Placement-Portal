@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking App 
+# 🏨 placement portal website
 
 This is a full-stack Placement portal website built using the MERN stack (MongoDB, Express, React, Node.js). Users can browse differnt jobs, filter by city, name, and apply for job and register in different company.
 
