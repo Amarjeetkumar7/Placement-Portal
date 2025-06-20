@@ -65,7 +65,7 @@ PORT=1300
 ```
 ## 🔗 Live Demo
 
-[Click here to view the live site](https://github.com/Amarjeetkumar7/Placement-Portal)
+[Click here to view the live site](https://placement-portal-dusky.vercel.app/)
 
 
 ## 📸 Screenshots
